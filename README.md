@@ -1,0 +1,5 @@
+Acest proiect prezintă dezvoltarea unui sistem de asistență la parcare și monitorizare a proximității care oferă o vizualizare completă a obstacolelor din jurul vehiculului. Sistemul monitorizează continuu distanța față de obstacole în șase zone distincte – față stânga/centru/dreapta și spate stânga/centru/dreapta – oferind utilizatorului avertizări clare și intuitive.
+
+Prin intermediul LED-urilor colorate și a semnalelor sonore progresive, utilizatorul primește informații precise despre apropierea de obstacole, iar datele sunt afișate simultan pe un ecran LCD 16x2 pentru o vizualizare detaliată. Sistemul poate fi controlat și dezactivat printr-un buton dedicat, asigurând flexibilitate și ușurință în utilizare.
+
+Proiectul reprezintă un pas important în explorarea tehnologiilor de asistență pentru siguranța rutieră, combinând concepte de electronică, programare și interfață vizuală într-un sistem coerent și funcțional. Scopul principal a fost realizarea unei experiențe intuitive, care să permită utilizatorului să înțeleagă rapid poziția și distanța față de obstacole, oferind un suport practic în manevrele de parcare și deplasare.
